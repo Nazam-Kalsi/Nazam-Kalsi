@@ -1,9 +1,9 @@
 
 # 💫 About Me:
-## 🌱  I’m currently learning:
+## 🌱 ** I’m currently learning:**
 <br>ReactJs and NextJS
 <br>
-## 💬 Ask me about:<br>
+** 💬 Ask me about:**<br>
 JavaScript, React, Node.js,and any general software development questions.
 <br>
 
