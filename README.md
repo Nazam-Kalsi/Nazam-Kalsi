@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🌱 I’m currently learning :<br>ReactJs and NextJS<br>💬 Ask me about:<br>
+🌱 I’m currently learning:<br>ReactJs and NextJS<br>💬 Ask me about:<br>
 JavaScript, React, Node.js,and any general software development questions.
 
 
@@ -12,6 +12,7 @@ JavaScript, React, Node.js,and any general software development questions.
 <br>
 
 ---
+# 🎗️ Holopin Badges:
 [![An image of @nazamkalsi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nazamkalsi)](https://holopin.io/@nazamkalsi)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nazam-Kalsi&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
